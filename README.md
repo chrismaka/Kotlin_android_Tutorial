@@ -11,5 +11,7 @@ https://user-images.githubusercontent.com/6191038/50584541-43a57e00-0e81-11e9-90
 The code structure in java is the same that in kotlin in the a class exists in a file, the class is opened and terminated by braces, and so is the method, and so is the method which exists with in the class. The has statements which take on 
 
 2.Syntax:
-
+A java android class that inherits from Activity looks like public class MainActivity extends Activity{//...}
+A kotlin class that inherits from Activity looks like class MainActivity:Activity(){//..}
+Kotlin has access modifiers public, private and protected like java though. ":" means extends in kotlin and superclasses
 
